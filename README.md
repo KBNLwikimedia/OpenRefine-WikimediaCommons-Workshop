@@ -39,16 +39,18 @@ For OpenRefine 3.7+ to be able to upload images to Commons, we will need to add 
 * **OpenRefine schema**: The OpenRefine schema that will be used to upload the images and data to Commons [can be found here](add URL)
 
 ### *2) Source materials*
-* **Online images**: We are going to upload the 18 images from *[Nederlandsche havengezichten enz.](http://resolver.kb.nl/resolve?urn=urn:gvn:KONB16:533939704)* to Commons. These images can be directly requested via URLs such as http://resolver.kb.nl/resolve?urn=urn:gvn:KONB16:533939704&role=page&count=4&size=large (count=1, count=2, count=3... count=18)
+* **Online images**: We are going to upload the 18 images from *[Nederlandsche havengezichten enz.](http://resolver.kb.nl/resolve?urn=urn:gvn:KONB16:533939704)* to Commons. These images can be directly requested via http://resolver.kb.nl/resolve?urn=urn:gvn:KONB16:533939704&role=page&count=4&size=large *(count=1, count=2, count=3... count=18)*
 
-* **Local images**: In total this page holds 18 individual images, which have been downloaded into the *[images](/images)* folder in this repo. 
+* **Local images**: This page holds 18 individual images, which have been downloaded into the *[images](/images)* folder in this repo. 
 
-* **Excel file**: All necessary data for our uploads to Commons is contained in [this Excel-file](Dataset_WorkshopOpenRefine_WikiconNL19112022.xlsx?raw=true). It will be used as input for creating our OpenRefine project during the workshop.
+* **Excel file**: All necessary data for our uploads to Commons is contained in [this Excel-file](Dataset_WorkshopOpenRefine_WikiconNL19112022.xlsx?raw=true). It will be used as input for creating our OpenRefine project during the workshop. 
+
+  This Excel lets you choose if you want to upload the files (to Commons) from the local *[images](/images)* folder, or from the URLs above. 
 
 ### *3) Example outputs*
-* **Commons category**: As a preparation for this workshop, a couple these images have already been uploaded to the Commons [Category:Nederlandsche_havengezichten_enz.,_1780-1781_-_KONB16:533939704](https://commons.wikimedia.org/wiki/Category:Nederlandsche_havengezichten_enz.,_1780-1781_-_KONB16:533939704). These will be used for illustration and demo purposes. 
+* **Commons category**: As a preparation for this workshop, a couple these images have already been uploaded to the Commons *[Category:Nederlandsche_havengezichten_enz.,_1780-1781_-_KONB16:533939704](https://commons.wikimedia.org/wiki/Category:Nederlandsche_havengezichten_enz.,_1780-1781_-_KONB16:533939704)*. These will be used for illustration and demo purposes. 
 
-* **Example file**: One file within this category is [File:De Haven van Amsterdam - Nederlandsche havengezichten enz. - KONB16-533939704 - Prent 3 van 18.jpg](https://commons.wikimedia.org/wiki/File:De_Haven_van_Amsterdam_-_Nederlandsche_havengezichten_enz._-_KONB16-533939704_-_Prent_3_van_18.jpg). We will use this example file for guidance, it holds  
+* **Example file**: One file within this category is *[File:De Haven van Amsterdam - Nederlandsche havengezichten enz. - KONB16-533939704 - Prent 3 van 18.jpg](https://commons.wikimedia.org/wiki/File:De_Haven_van_Amsterdam_-_Nederlandsche_havengezichten_enz._-_KONB16-533939704_-_Prent_3_van_18.jpg)*. We will use this example file for guidance, it holds  
   * Wikitext : based upon the [{{Artwork template}}](https://commons.wikimedia.org/wiki/Template:Artwork)
   * Structured data : using [depicts (P180)](https://www.wikidata.org/wiki/Special:EntityPage/P180), [copyright status (P6216)](https://www.wikidata.org/wiki/Special:EntityPage/P6216), [source of file (P7482)](https://www.wikidata.org/wiki/Special:EntityPage/P7482) and [collection (P195)](https://www.wikidata.org/wiki/Special:EntityPage/P195) as a minimal set.  
 
