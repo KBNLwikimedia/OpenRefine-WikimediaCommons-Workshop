@@ -23,4 +23,4 @@ This workshop is suitable for people who have used OpenRefine before to add data
 [Olaf Janssen](https://www.wikidata.org/wiki/User:OlafJanssen) is the Wikimedia coordinator of the [Koninklijke Bibliotheek](https://www.kb.nl/over-ons/experts/olaf-janssen), the national library of the Netherlands. In this role he stimulates and facilitates collaboration between the collections, knowledge, open data and staff of the KB on the one hand, and the projects of the Wikimedia movement, such as Wikipedia, Wikimedia Commons, Wikidata and Wikibase, on the other. He is also active as a volunteer within the community.
 
 ## Licensing
-All workshop materials are released into the public domain under the [CCO license](https://creativecommons.org/publicdomain/zero/1.0/) and can therefore be reused freely and openly
+All workshop materials are released into the public domain under the [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/) and can therefore be reused freely and openly. Attribution is not required, but still appreciated.
