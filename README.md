@@ -1,11 +1,9 @@
 # Workshop OpenRefine & Wikimedia Commons
 
-<img src="logos/OpenRefine_logo_color.png" width="33%" align="left"/><img src="logos/Commons-logo-en.svg.png" width="33%" align="left"/><img src="android-chrome-192x192.jpg" width="33%" align="left"/>
-
-[OpenRefine](https://openrefine.org/) is a well-known tool for editing, enriching and manipulating data. It is widely used within the Wikimedia community to add data to Wikidata. As from version 3.7, you can also upload images to Wikimedia Commons, enriched with [structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data).
+<img src="logos/OpenRefine_logo_color.png" width="200" align="right"/>[OpenRefine](https://openrefine.org/) is a well-known tool for editing, enriching and manipulating data. It is widely used within the Wikimedia community to add data to Wikidata. As from version 3.7, you can also upload images to Wikimedia Commons, enriched with [structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data).
 
 ## Learning objectives
-In this workshop you will learn
+<img src="logos/Commons-logo-en.svg.png" width="80" align="right"/>In this workshop you will learn
  * how to use OpenRefine to upload new images with regular file descriptions (Wikitext) and structured data to Wikimedia Commons, and
  * how to add structured data to existing Commons files, using OpenRefine
 
@@ -60,7 +58,7 @@ For OpenRefine 3.7+ to be able to upload images to Commons, we will need to add 
 * **PDF slides**: The outline, explanations, tips & tricks etc. that will be demonstrated during the workshop can be seen in [this PDF-presentation](add Commons URL PDF). You can also use it as guidance if you want to do this workshop by yourself. 
 
 ## Workshop leader
-This workshop is given by [Olaf Janssen](https://www.wikidata.org/wiki/User:OlafJanssen), the Wikimedia coordinator of the [Koninklijke Bibliotheek](https://www.kb.nl/over-ons/experts/olaf-janssen), the national library of the Netherlands. In this role he stimulates and facilitates collaboration between the collections, knowledge, open data and staff of the KB on the one hand, and the projects of the Wikimedia movement, such as Wikipedia, Wikimedia Commons, Wikidata and Wikibase, on the other. He is also active as a volunteer within the community.
+<img src="logos/android-chrome-192x192.jpg" width="150" align="right">This workshop is given by [Olaf Janssen](https://www.wikidata.org/wiki/User:OlafJanssen), the Wikimedia coordinator of the [Koninklijke Bibliotheek](https://www.kb.nl/over-ons/experts/olaf-janssen), the national library of the Netherlands. In this role he stimulates and facilitates collaboration between the collections, knowledge, open data and staff of the KB on the one hand, and the projects of the Wikimedia movement, such as Wikipedia, Wikimedia Commons, Wikidata and Wikibase, on the other. He is also active as a volunteer within the community.
 
 ## Workshop instances
 This workshop was given during
