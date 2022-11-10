@@ -9,6 +9,7 @@ In this workshop you will learn
 
 ## Target audience
 This workshop is suitable for people who have used OpenRefine before to add data to Wikidata, and who know what "reconciling against Wikidata" means, but who do not yet know how to use OpenRefine to add images and structured data to Wikimedia Commons. 
+
 This workshop is therefore **not suitable for** people who have never worked with OpenRefine and/or Wikidata.
 
  ## Required preparation
@@ -63,3 +64,6 @@ This workshop was given during
 
 ## Licensing
 All workshop materials are released into the public domain under the [Creative Commons Zero v1.0 Universal](LICENSE) and can therefore be reused freely and openly. Attribution is not required, but still appreciated.
+
+## Latest updates
+This page was last updated on 11 November 2022.
