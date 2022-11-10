@@ -20,7 +20,7 @@ This workshop is suitable for people who have used OpenRefine before to add data
 
 ## Working materials
 
-* **OpenRefine 3.7 SNAPSHOT**: It can be downloaded at https://github.com/OpenRefine/OpenRefine#snapshot-releases. (See remarks above).
+* **OpenRefine 3.7 SNAPSHOT**: See instructions above.
 
 * **URLs needed by OpenRefine 3.7+**:
 For OpenRefine 3.7+ to be able to upload images to Commons, we will need to add a couple of URLs to it: 
