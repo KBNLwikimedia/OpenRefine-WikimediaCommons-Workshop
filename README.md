@@ -1,5 +1,6 @@
 # Workshop OpenRefine & Wikimedia Commons
 
+
 [OpenRefine](https://openrefine.org/) is a well-known tool for editing, enriching and manipulating data. It is widely used within the Wikimedia community to add data to Wikidata. As from version 3.7, you can also upload images to Wikimedia Commons, enriched with [structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data).
 
 ## Learning objectives
