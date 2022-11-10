@@ -12,7 +12,7 @@ This workshop is suitable for people who have used OpenRefine before to add data
 
  ## Required preparation
 * Please bring your own laptop to this workshop.
-* Make sure youy know your way around OpenRefine v 3.4, 3.5 or 3.6, and are comfortable with reconciling and uploading data to Wikidata.
+* Make sure you know your way around OpenRefine v 3.4, 3.5 or 3.6, and are comfortable with reconciling and uploading data to Wikidata.
 * Install OpenRefine 3.7 SNAPSHOT on your machine. It can be downloaded at https://github.com/OpenRefine/OpenRefine#snapshot-releases. Version 3.6.2 (or older) is therefore **not** suitable, because you cannot upload files to Wikimedia Commons with it.
 * If you have time: check out [OpenRefine 3.7+ – How to upload new files to Wikimedia Commons](https://docs.google.com/document/d/19eiMeq3XssiPrT9b04E-8XyE-desBEzYNgygLDYKP4o/edit)
 
