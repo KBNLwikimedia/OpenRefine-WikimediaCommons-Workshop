@@ -16,8 +16,14 @@ This workshop is suitable for people who have used OpenRefine before to add data
 * Install OpenRefine 3.7 SNAPSHOT on your machine. It can be downloaded at https://github.com/OpenRefine/OpenRefine#snapshot-releases. Version 3.6.2 (or older) is therefore **not** suitable, because you cannot upload files to Wikimedia Commons with it.
 * If you have time: check out [OpenRefine 3.7+ – How to upload new files to Wikimedia Commons](https://docs.google.com/document/d/19eiMeq3XssiPrT9b04E-8XyE-desBEzYNgygLDYKP4o/edit)
 
-## Working materials 
-* https://commons.wikimedia.org/wiki/Category:Nederlandsche_havengezichten_enz.,_1780-1781_-_KONB16:533939704
+## Working materials
+* We are going to upload images from *[Nederlandsche havengezichten enz.](http://resolver.kb.nl/resolve?urn=urn:gvn:KONB16:533939704)* to Commons. In total this page holds 18 individual images, a couple of which have already been upload to 
+* https://commons.wikimedia.org/wiki/Category:Nederlandsche_havengezichten_enz.,_1780-1781_-_KONB16:533939704 as a preparation for this workshop, for demo purposes. 
+* All necessary data for our uploads to Commons is contained in [this Excle-file](). It will be used as input for creating our OpenRefine project during the workshop.
+
+## Workshop instances
+This worlshop was given during
+* [WikiconNL 2022](https://web.archive.org/web/20221014171306/https://www.wikimedia.nl/wikiconnl/), 19 november 2022, Urect, The Netherlands. See the [programme](https://web.archive.org/web/20221103154543/https://www.wikimedia.nl/programma-2022/) and the [session description](https://web.archive.org/web/20221110131459/https://www.wikimedia.nl/sessies2022/)
 
 ## Workshop leader
 [Olaf Janssen](https://www.wikidata.org/wiki/User:OlafJanssen) is the Wikimedia coordinator of the [Koninklijke Bibliotheek](https://www.kb.nl/over-ons/experts/olaf-janssen), the national library of the Netherlands. In this role he stimulates and facilitates collaboration between the collections, knowledge, open data and staff of the KB on the one hand, and the projects of the Wikimedia movement, such as Wikipedia, Wikimedia Commons, Wikidata and Wikibase, on the other. He is also active as a volunteer within the community.
