@@ -17,7 +17,10 @@ This workshop is suitable for people who have used OpenRefine before to add data
 * If you have time: check out [OpenRefine 3.7+ – How to upload new files to Wikimedia Commons](https://docs.google.com/document/d/19eiMeq3XssiPrT9b04E-8XyE-desBEzYNgygLDYKP4o/edit)
 
 ## Working materials 
-* 
+* https://commons.wikimedia.org/wiki/Category:Nederlandsche_havengezichten_enz.,_1780-1781_-_KONB16:533939704
 
 ## Workshop leader
 [Olaf Janssen](https://www.wikidata.org/wiki/User:OlafJanssen) is the Wikimedia coordinator of the [Koninklijke Bibliotheek](https://www.kb.nl/over-ons/experts/olaf-janssen), the national library of the Netherlands. In this role he stimulates and facilitates collaboration between the collections, knowledge, open data and staff of the KB on the one hand, and the projects of the Wikimedia movement, such as Wikipedia, Wikimedia Commons, Wikidata and Wikibase, on the other. He is also active as a volunteer within the community.
+
+## Licensing
+All workshop materials are released into the public domain under the [CCO license](https://creativecommons.org/publicdomain/zero/1.0/) and can therefore be reused freely and openly
