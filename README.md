@@ -13,16 +13,25 @@ This workshop is suitable for people who have used OpenRefine before to add data
  ## Required preparation
 * Please bring your own laptop to this workshop.
 * Make sure you know your way around OpenRefine v 3.4, 3.5 or 3.6, and are comfortable with reconciling and uploading data to Wikidata.
-* Install OpenRefine 3.7 SNAPSHOT on your machine. It can be downloaded at https://github.com/OpenRefine/OpenRefine#snapshot-releases. Version 3.6.2 (or older) is therefore **not** suitable, because you cannot upload files to Wikimedia Commons with it.
+* Install OpenRefine 3.7 SNAPSHOT on your machine. It can be downloaded at https://github.com/OpenRefine/OpenRefine#snapshot-releases. Please note: 
+   * this is an unstable release, functionalities can change from release to release and may or may not work, depending on the exact snapshot release you have installed. Don't be suprised if some things that works yesterday and/or today will stop working tomorrow. 
+   * Version 3.6.2 (or older) is **not** suitable, because you cannot upload files to Wikimedia Commons with it.
 * If you have time: check out [OpenRefine 3.7+ – How to upload new files to Wikimedia Commons](https://docs.google.com/document/d/19eiMeq3XssiPrT9b04E-8XyE-desBEzYNgygLDYKP4o/edit)
 
 ## Working materials
 
+* **OpenRefine 3.7 SNAPSHOT**: It can be downloaded at https://github.com/OpenRefine/OpenRefine#snapshot-releases. Version 3.6.2 (or older) is **not** suitable, because you cannot upload files to Wikimedia Commons with it.
+
 * **URLs needed by OpenRefine 3.7+**:
 For OpenRefine 3.7+ to be able to upload images to Commons, we will need to add a couple of URLs to it: 
-  * *Wikidata recon service*: []() (English) and []() (Dutch) - to allow OpenRefine to reconcile local data against Wikidata
-  * *Wikimedia Commons recon service*: []()(English) and []() (Dutch) - to allow OpenRefine to reconcile local file names against Wikimedia Commons File:-names
-  * *Wikimedia Commons manifest*: []() - so OpenRefine knows that Wikimedia Commons is a special Wikbase instance it can talk/upload to 
+  * *Wikidata reconciliation service* - to allow OpenRefine to reconcile local data against Wikidata
+    * https://wikidata.reconci.link/en/api (English) 
+    * https://wikidata.reconci.link/nl/api (Dutch) 
+  * *Wikimedia Commons reconciliation service* - to allow OpenRefine to reconcile local file names against Wikimedia Commons File:-names 
+    * https://commonsreconcile.toolforge.org/en/api (English) 
+    * https://commonsreconcile.toolforge.org/nl/api (Dutch) 
+  * *Wikimedia Commons manifest* - so OpenRefine knows that Wikimedia Commons is a special Wikbase instance it can talk/upload to.
+    *  https://raw.githubusercontent.com/OpenRefine/wikibase-manifests/master/wikimedia-commons-manifest.json 
 
 * **Online images**: We are going to upload the 18 images from *[Nederlandsche havengezichten enz.](http://resolver.kb.nl/resolve?urn=urn:gvn:KONB16:533939704)* to Commons. These images can be directly requested via URLs such as http://resolver.kb.nl/resolve?urn=urn:gvn:KONB16:533939704&role=page&count=4&size=large (count=1, count=2, count=3... count=18)
 
