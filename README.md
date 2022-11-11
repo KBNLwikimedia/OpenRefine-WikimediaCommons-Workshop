@@ -23,7 +23,7 @@ This workshop is therefore **not suitable for** people who have never worked wit
 * Install OpenRefine 3.7 SNAPSHOT on your machine. It can be downloaded at https://github.com/OpenRefine/OpenRefine#snapshot-releases. Please note: 
    * this is an unstable release, functionalities can change from release to release and may or may not work, depending on the exact snapshot release you have installed. Don't be suprised if some things that worked yesterday and/or today will stop working tomorrow. Therefore, it might be very well possible that you **will not be able to upload your images** to Wikimedia Commons at all, depending the matureness of the snapshot releases. This workshop is more about learning the logic and required steps then it is about actually uploading the images.  
    * Version 3.6.2 (or older) is **not** suitable, because you cannot upload files to Wikimedia Commons with it.
-* Download the [zipped OpenRefine-WikimediaCommons-Workshop repo](https://github.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop/archive/refs/heads/main.zip) and unzip it to some folder on your machine. This folder contains your working materials.
+* Download the [zipped OpenRefine-WikimediaCommons-Workshop repo](https://github.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop/archive/refs/heads/main.zip) and unzip it to some folder on your machine. This folder contains your working materials: 18 local images, an Excel with data about the images, an OpenRefine schema and this explanation (README.md)
 * If you have time: check out [OpenRefine 3.7+ – How to upload new files to Wikimedia Commons](https://docs.google.com/document/d/19eiMeq3XssiPrT9b04E-8XyE-desBEzYNgygLDYKP4o/edit)
 
 ## Working materials
