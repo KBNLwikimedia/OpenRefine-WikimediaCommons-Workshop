@@ -42,7 +42,7 @@ For OpenRefine 3.7+ to be able to upload images to Commons, we will need to add 
   * *Wikimedia Commons manifest* - so OpenRefine knows that Wikimedia Commons is a special Wikbase instance it can talk/upload to.
     *  https://raw.githubusercontent.com/OpenRefine/wikibase-manifests/master/wikimedia-commons-manifest.json 
 
-* **OpenRefine schema**: The OpenRefine schema that will be used to upload the images and data to Commons [can be found here](https://raw.githubusercontent.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop/main/schema.json)
+* **OpenRefine schema**: The OpenRefine schema that will be used to upload the images and data to Commons [can be found here](https://raw.githubusercontent.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop/main/schemaHavengezichtenGvN.json)
 
 ### *2) Source materials*
 * **Online images**: We are going to upload the 18 images from *[Nederlandsche havengezichten enz.](http://resolver.kb.nl/resolve?urn=urn:gvn:KONB16:533939704)* to Commons. These images can be directly requested via http://resolver.kb.nl/resolve?urn=urn:gvn:KONB16:533939704&role=page&count=4&size=large *(count=1, count=2, count=3... count=18)*
