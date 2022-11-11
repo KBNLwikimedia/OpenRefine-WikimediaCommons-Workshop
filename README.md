@@ -57,7 +57,10 @@ For OpenRefine 3.7+ to be able to upload images to Commons, we will need to add 
 * **Commons category**: As a preparation for this workshop, a couple these images have already been uploaded to the Commons *[Category:Nederlandsche_havengezichten_enz.,_1780-1781_-_KONB16:533939704](https://commons.wikimedia.org/wiki/Category:Nederlandsche_havengezichten_enz.,_1780-1781_-_KONB16:533939704)*. These will be used for illustration and demo purposes. 
 
 * **Example file**: One file within this category is *[File:De Haven van Amsterdam - Nederlandsche havengezichten enz. - KONB16-533939704 - Prent 3 van 18.jpg](https://commons.wikimedia.org/wiki/File:De_Haven_van_Amsterdam_-_Nederlandsche_havengezichten_enz._-_KONB16-533939704_-_Prent_3_van_18.jpg)*. We will use this example file for guidance, it holds  
-  * Wikitext : based upon the [{{Artwork template}}](https://commons.wikimedia.org/wiki/Template:Artwork)
+  * Wikitext : based upon 
+    * the [{{Artwork template}}](https://commons.wikimedia.org/wiki/Template:Artwork), 
+    * the {{PD-art|PD-old-70-1923}} public domain template and 
+    * the Category:Nederlandsche havengezichten enz., 1780-1781 - KONB16:533939704
   * Structured data : using [depicts (P180)](https://www.wikidata.org/wiki/Special:EntityPage/P180), [copyright status (P6216)](https://www.wikidata.org/wiki/Special:EntityPage/P6216), [source of file (P7482)](https://www.wikidata.org/wiki/Special:EntityPage/P7482) and [collection (P195)](https://www.wikidata.org/wiki/Special:EntityPage/P195) as a minimal set.  
 
 ### *4) Workshop guidance & outline*
