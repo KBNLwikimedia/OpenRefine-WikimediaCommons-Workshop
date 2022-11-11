@@ -8,7 +8,12 @@
  * how to add structured data to existing Commons files, using OpenRefine
 
 ## Target audience
-This workshop is suitable for people who have used OpenRefine before to add data to Wikidata, and who know what "reconciling against Wikidata" means, but who do not yet know how to use OpenRefine to add images and structured data to Wikimedia Commons. 
+This workshop is suitable for people who 
+* have used OpenRefine before to add data to Wikidata, 
+* know their way around OpenRefine v 3.4, 3.5 or 3.6, and 
+* who know what "reconciling against Wikidata" means, 
+
+but who *do not yet know* how to use OpenRefine to add images and structured data to Wikimedia Commons. 
 
 This workshop is therefore **not suitable for** people who have never worked with OpenRefine and/or Wikidata.
 
