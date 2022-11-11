@@ -23,6 +23,7 @@ This workshop is therefore **not suitable for** people who have never worked wit
 * Install OpenRefine 3.7 SNAPSHOT on your machine. It can be downloaded at https://github.com/OpenRefine/OpenRefine#snapshot-releases. Please note: 
    * this is an unstable release, functionalities can change from release to release and may or may not work, depending on the exact snapshot release you have installed. Don't be suprised if some things that works yesterday and/or today will stop working tomorrow. 
    * Version 3.6.2 (or older) is **not** suitable, because you cannot upload files to Wikimedia Commons with it.
+* Download the [zipped OpenRefine-WikimediaCommons-Workshop repo](https://github.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop/archive/refs/heads/main.zip) and unzip it to some folder on your machine. This folder contains your working materials.
 * If you have time: check out [OpenRefine 3.7+ – How to upload new files to Wikimedia Commons](https://docs.google.com/document/d/19eiMeq3XssiPrT9b04E-8XyE-desBEzYNgygLDYKP4o/edit)
 
 ## Working materials
