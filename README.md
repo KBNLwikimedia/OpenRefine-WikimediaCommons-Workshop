@@ -51,7 +51,7 @@ If you want to build up the OpenRefine project from scratch, you can use these r
 
 * **Online images**: We are going to upload the 18 images from *[Nederlandsche havengezichten enz.](http://resolver.kb.nl/resolve?urn=urn:gvn:KONB16:533939704)* to Commons. These images can be directly requested via http://resolver.kb.nl/resolve?urn=urn:gvn:KONB16:533939704&role=page&count=4&size=large *(count=1, count=2, count=3... count=18)*
 
-* **Local images**: This page holds 18 individual images, which have been downloaded into the *[images](/images)* folder in this repo. These are only relevant if you want to upload from local files, rather then from the URLs.
+* **Local images**: This page holds 18 individual images, which have been downloaded into the *[images](/images)* folder in this repo. These are only relevant if you want to upload these local images, rather then from the URLs.
 
 * **Excel file**: All necessary data for our uploads to Commons is contained in [this Excel-file](Dataset_WorkshopOpenRefine_WikiconNL19112022.xlsx?raw=true). It will be used as input for creating our OpenRefine project during the workshop. 
 
