@@ -44,7 +44,11 @@ For OpenRefine 3.7+ to be able to upload images to Commons, we will need to add 
 
 * **OpenRefine schema**: The OpenRefine schema that will be used to upload the images and data to Commons [can be found here](https://raw.githubusercontent.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop/main/schemaHavengezichtenGvN.json)
 
-### *2) Source materials*
+* **Pre-built OpenRefine project archive**: If you don't want to build the project in OpenRefine from scratch (see "Raw materials" below), you can download the [pre-built project archive](https://github.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop/blob/main/Dataset-WorkshopOpenRefine-WikiconNL19112022-xlsx.openrefine.tar.gz?raw=true) and import it into OpenRefine using the "Import project" dialog from the start screen. 
+
+### *2) Raw materials*
+If you want to build up the OpenRefine project from scratch, you can use these raw source materials
+
 * **Online images**: We are going to upload the 18 images from *[Nederlandsche havengezichten enz.](http://resolver.kb.nl/resolve?urn=urn:gvn:KONB16:533939704)* to Commons. These images can be directly requested via http://resolver.kb.nl/resolve?urn=urn:gvn:KONB16:533939704&role=page&count=4&size=large *(count=1, count=2, count=3... count=18)*
 
 * **Local images**: This page holds 18 individual images, which have been downloaded into the *[images](/images)* folder in this repo. 
