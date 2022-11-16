@@ -1,10 +1,14 @@
-Wikidata reconciliation service - to allow OpenRefine to reconcile local data against Wikidata
+URLs needed by OpenRefine 3.7+
+
+For OpenRefine 3.7+ to be able to upload images to Commons, we will need to add a couple of URLs to it:
+
+1) Wikidata reconciliation service - to allow OpenRefine to reconcile local data against Wikidata
   * https://wikidata.reconci.link/en/api (English)
   * https://wikidata.reconci.link/nl/api (Dutch)
 
-Wikimedia Commons reconciliation service - to allow OpenRefine to reconcile local file names against Wikimedia Commons File:-names
+2) Wikimedia Commons reconciliation service - to allow OpenRefine to reconcile local file names against Wikimedia Commons File:-names
   * https://commonsreconcile.toolforge.org/en/api (English)
   * https://commonsreconcile.toolforge.org/nl/api (Dutch)
 
-Wikimedia Commons manifest - so OpenRefine knows that Wikimedia Commons is a special Wikbase instance it can talk/upload to.
+3) Wikimedia Commons manifest - so OpenRefine knows that Wikimedia Commons is a special Wikbase instance it can talk/upload to.
  * https://raw.githubusercontent.com/OpenRefine/wikibase-manifests/master/wikimedia-commons-manifest.json
