@@ -31,7 +31,7 @@ This workshop is therefore **not suitable for** people who have never worked wit
 ### *1) OpenRefine*
 * **OpenRefine 3.7 SNAPSHOT**: See instructions above.
 
-* **URLs needed by OpenRefine 3.7+**:
+* **URLs needed by OpenRefine 3.7+**, also listed separatley in [wiki-urls.txt](wiki-urls.txt): 
 For OpenRefine 3.7+ to be able to upload images to Commons, we will need to add a couple of URLs to it: 
   * *Wikidata reconciliation service* - to allow OpenRefine to reconcile local data against Wikidata
     * https://wikidata.reconci.link/en/api (English) 
