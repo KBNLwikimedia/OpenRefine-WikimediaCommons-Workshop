@@ -50,6 +50,8 @@ For OpenRefine 3.7+ to be able to upload images to Commons, we will need to add 
 If you want to build up the OpenRefine project from scratch, you can use these raw source materials
 
 * **Online images**: We are going to upload the 18 images from *[Nederlandsche havengezichten enz.](http://resolver.kb.nl/resolve?urn=urn:gvn:KONB16:533939704)* to Commons. These images can be directly requested via http://resolver.kb.nl/resolve?urn=urn:gvn:KONB16:533939704&role=page&count=4&size=large *(count=1, count=2, count=3... count=18)*
+  
+  Please note that the the domain **.kb.nl* [has been whitelisted](https://commons.wikimedia.org/wiki/MediaWiki:Copyupload-allowed-domains), so Wikimedia Commons accepts uploads from *resolver.kb.nl*.
 
 * **Local images**: This page holds 18 individual images, which have been downloaded into the *[images](/images)* folder in this repo. These are only relevant if you want to upload these local images, rather then from the URLs.
 
