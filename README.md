@@ -80,5 +80,8 @@ This workshop was given during
 ## Licensing
 All workshop materials are released into the public domain under the [Creative Commons Zero v1.0 Universal](LICENSE) and can therefore be reused freely and openly. Attribution is not required, but still appreciated.
 
+## See also
+[OpenRefine 3.7+ – How to upload new files to Wikimedia Commons](https://docs.google.com/document/d/19eiMeq3XssiPrT9b04E-8XyE-desBEzYNgygLDYKP4o/edit)
+
 ## Latest updates
 This page was last updated on 11 November 2022.
