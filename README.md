@@ -77,7 +77,7 @@ If you want to build up the OpenRefine project from scratch, you can use these r
 ## Workshop leader
 <img src="logos/android-chrome-192x192.jpg" width="150" align="right">This workshop is given by [Olaf Janssen](https://www.wikidata.org/wiki/User:OlafJanssen), the Wikimedia coordinator of the [Koninklijke Bibliotheek](https://www.kb.nl/over-ons/experts/olaf-janssen), the national library of the Netherlands. In this role he stimulates and facilitates collaboration between the collections, knowledge, open data and staff of the KB on the one hand, and the projects of the Wikimedia movement, such as Wikipedia, Wikimedia Commons, Wikidata and Wikibase, on the other. He is also active as a volunteer within the community.
 
-feel free to contact Olaf via olaf.janssen(at)kb.nl 
+Feel free to contact Olaf via olaf.janssen(at)kb.nl 
 
 ## Workshop instances
 This workshop was given during
