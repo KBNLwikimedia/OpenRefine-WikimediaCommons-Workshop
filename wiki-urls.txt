@@ -12,3 +12,5 @@ For OpenRefine 3.7+ to be able to upload images to Commons, we will need to add 
 
 3) Wikimedia Commons manifest - so OpenRefine knows that Wikimedia Commons is a special Wikbase instance it can talk/upload to.
  * https://raw.githubusercontent.com/OpenRefine/wikibase-manifests/master/wikimedia-commons-manifest.json
+
+These URLs are also provided in the reconciliation service test bench (https://reconciliation-api.github.io/testbench/#/) and in this list of Wikibase manifests: https://github.com/OpenRefine/wikibase-manifests.
