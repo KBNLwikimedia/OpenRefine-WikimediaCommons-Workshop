@@ -1,11 +1,11 @@
 # Workshop OpenRefine & Wikimedia Commons
 
-<img src="logos/OpenRefine_logo_color.png" width="200" align="right"/>[OpenRefine](https://openrefine.org/) is a well-known tool for editing, enriching and manipulating data. It is widely used within the Wikimedia community to add data to Wikidata. As from version 3.7, you can also upload images to Wikimedia Commons, enriched with [structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data). In this workshop you will learn how to do that.
+<img src="logos/OpenRefine_logo_color.png" width="200" align="right"/>[OpenRefine](https://openrefine.org/) is a well-known tool for editing, enriching and manipulating data. It is widely used within the Wikimedia community to add data to Wikidata. As from version 3.7, you can also upload images to Wikimedia Commons, enriched with [structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data). In this workshop you will learn step by step how to do that.
 
 ## Learning objectives
 <img src="logos/Commons-logo-en.svg.png" width="80" align="right"/>In this workshop you will learn
  * how to use OpenRefine to upload new images with regular file descriptions (Wikitext) and structured data to Wikimedia Commons, and
- * how to add structured data to existing Commons files, using OpenRefine
+ * how to add structured data to existing Commons files, using OpenRefine.
 
 ## Target audience
 This workshop is suitable for people who 
