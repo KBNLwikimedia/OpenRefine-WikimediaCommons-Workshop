@@ -42,6 +42,8 @@ For OpenRefine 3.7+ to be able to upload images to Commons, we will need to add 
   * *Wikimedia Commons manifest* - so OpenRefine knows that Wikimedia Commons is a special Wikbase instance it can talk/upload to.
     *  https://raw.githubusercontent.com/OpenRefine/wikibase-manifests/master/wikimedia-commons-manifest.json 
 
+  These URLs are also provided in the [reconciliation service test bench](https://reconciliation-api.github.io/testbench/#/) and in [this list of Wikibase manifests](https://github.com/OpenRefine/wikibase-manifests).
+
 * **OpenRefine schema**: The OpenRefine schema that will be used to upload the images and data to Commons [can be found here](https://raw.githubusercontent.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop/main/schemaHavengezichtenGvN.json)
 
 * **Pre-built OpenRefine project archive**: If you don't want to build the project in OpenRefine from scratch (see "Raw materials" below), you can download the [pre-built project archive](https://github.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop/blob/main/Dataset-WorkshopOpenRefine-WikiconNL19112022-xlsx.openrefine.tar.gz?raw=true) and import it into OpenRefine using the "Import project" dialog from the start screen. 
