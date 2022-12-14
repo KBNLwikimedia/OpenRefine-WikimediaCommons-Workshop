@@ -92,6 +92,5 @@ All workshop materials are released into the public domain under the [Creative C
 * [OpenRefine 3.7+ – How to upload new files to Wikimedia Commons](https://docs.google.com/document/d/19eiMeq3XssiPrT9b04E-8XyE-desBEzYNgygLDYKP4o/edit)
 * [Workflow to add structured data to existing media collections on Wikimedia Commons via OpenRefine](https://docs.google.com/document/d/1AebEi9WfPrrhTJpJMbx2kaHTeH3hgJzMuT2wpTsXP0s/edit?usp=sharing) - In Dutch, november 2022
 
-
 ## Latest updates
-This page was last updated on 18 November 2022.
+This page was last updated on 14 December 2022.
