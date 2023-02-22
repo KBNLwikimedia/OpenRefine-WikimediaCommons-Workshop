@@ -74,7 +74,7 @@ If you want to build up the OpenRefine project from scratch, you can use these r
 ### *4) Workshop guidance & outline*
 * **PDF slides**: The outline, explanations, tips & tricks etc. that will be demonstrated during the workshop can be seen in [this PDF-presentation](https://github.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop/raw/main/Workshop%20OpenRefine%20en%20Wikimedia%20Commons%20-%20Olaf%20Janssen%20-%20WikiconNL_19112022.pdf) in Dutch. You can also use it as guidance if you want to do this workshop by yourself.
 
-  The PDF is also available on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Workshop_OpenRefine_en_Wikimedia_Commons,_WikiconNL_2022,_19_november_2022.pdf) and [Slideshare](https://www.slideshare.net/OlafJanssenNL/workshop-openrefine-en-wikimedia-commons-wikiconnl-2022-19-november-2022).
+  The PDF is also available on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Workshop_OpenRefine_en_Wikimedia_Commons,_WikiconNL_2022,_19_november_2022.pdf) and [Zenodo](https://doi.org/10.5281/zenodo.7665230).
 
 ## Workshop leader
 <img src="logos/android-chrome-192x192.jpg" width="150" align="right">This workshop is given by [Olaf Janssen](https://www.wikidata.org/wiki/User:OlafJanssen), the Wikimedia coordinator of the [Koninklijke Bibliotheek](https://www.kb.nl/over-ons/experts/olaf-janssen), the national library of the Netherlands. In this role he stimulates and facilitates collaboration between the collections, knowledge, open data and staff of the KB on the one hand, and the projects of the Wikimedia movement, such as Wikipedia, Wikimedia Commons, Wikidata and Wikibase, on the other. He is also active as a volunteer within the community.
