@@ -1,4 +1,9 @@
-[<< Back to workshops and courses index](https://kbnlwikimedia.github.io/workshops-courses)
+<table width="100%" border="0"><tr><td align="left">
+<a href="https://kbnlwikimedia.github.io/workshops-courses"><< Back to workshops and courses index</a>
+</td><td align="right">
+<a href="https://github.com/KBNLwikimedia/OpenRefine-WikimediaCommons-Workshop" target="_blank">>> To the Github repo of this page</a>
+</td></tr></table>
+<hr/>
 
 # Workshop OpenRefine & Wikimedia Commons
 
